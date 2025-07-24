@@ -21,3 +21,4 @@ Tools Used AWS Management Console Amazon S3 (Simple Storage Service) Browser (fo
 
 Result Successfully created cloud storage Uploaded and accessed file via browser Configured permission settings
 **
+<img width="1680" height="1008" alt="Image" src="https://github.com/user-attachments/assets/f327f217-6cda-45a3-a317-0a28aebc1958" />
